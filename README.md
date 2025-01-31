@@ -1,4 +1,4 @@
-# NationQuest
+# WhereInTheWorld
 - Header: Includes the title and a dark mode toggle option with an icon.
 - Main Section: Contains a search bar and region filter for browsing countries.
 - Search Functionality: Allows users to search for countries by name.
